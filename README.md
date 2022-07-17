@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Compairing Six Models for Credit Risk Analysis using Machine Learning
 
 ## Overview
 
