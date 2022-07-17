@@ -12,7 +12,7 @@ We ran six different machine learning processes once the data was in proper shap
 - Balanced Random Forest Classifying
 - Easy Ensemble Classifying
 
-## Resources
+#### Resources
 Data Source: LoanStats_2019Q1.csv
 Software: Python 3.9.12, Conda 4.13.0, Jupyter Notebook 6.4.8
 
@@ -23,10 +23,14 @@ Software: Python 3.9.12, Conda 4.13.0, Jupyter Notebook 6.4.8
 ![N Random Oversample 2](/images/RandomOS_2.png)
 ![N Random Oversample 3](/images/RandomOS_3.png)
 Balanced Accuracy Score: 66.6%
+
 Precision Score:
+
     - High Risk: 1%
     - Low Risk: 100%
+
 Recall
+
     - High Risk: 64%
     - Low Risk: 69%
 
